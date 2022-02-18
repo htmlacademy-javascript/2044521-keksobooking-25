@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Olga Lokko](https://up.htmlacademy.ru/javascript/25/user/2044521).
-* Наставник: `Неизвестно`.
+* Наставник: `Alexander Babchenko`.
 
 ---
 
